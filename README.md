@@ -1,4 +1,4 @@
-# SelfTalk
+# GPT SelfTalk
 
 # [RTFM(Click me)](https://platform.openai.com/docs/guides/chat)
 
