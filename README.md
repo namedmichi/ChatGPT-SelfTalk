@@ -1,4 +1,5 @@
 # GPT SelfTalk
+### pip install openai/time/pprint
 
 # [RTFM(Click me)](https://platform.openai.com/docs/guides/chat)
 
