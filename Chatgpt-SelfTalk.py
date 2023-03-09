@@ -2,7 +2,7 @@ import pprint
 import openai
 import time
 
-openai.api_key = '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'
+openai.api_key = ''
 
 
 # Fügt den aktuellen Chat an die Liste an
