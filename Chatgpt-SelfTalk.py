@@ -2,6 +2,7 @@ import pprint
 import openai
 import time
 
+#Insert your Key
 openai.api_key = ''
 
 
