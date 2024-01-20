@@ -1,0 +1,1 @@
+  50  140 1340 ./Chatgpt-SelfTalk.py
